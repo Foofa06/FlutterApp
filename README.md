@@ -1,17 +1,22 @@
-# flutter_app
+# Flutter Profile App
 
-A new Flutter project.
+## Overview
+This is a simple Flutter application built for Assignment 5.  
+The app demonstrates basic state management, navigation, and UI design. It includes a profile page and a theme toggle feature (light/dark mode).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Welcome Home Screen with navigation button
+- Profile Screen with user information
+- Light/Dark theme toggle
+- Navigation using `Navigator.push()` and `Navigator.pop()`
+- Simple UI using Flutter widgets like `Scaffold`, `Text`, `Column`, and `CircleAvatar`
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+- Screenshot#1.jpg
+- Screenshot#2.jpg
+- Screenshot#3.jpg
+- Screenshot#4.jpg
